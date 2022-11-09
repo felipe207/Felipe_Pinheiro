@@ -1,7 +1,7 @@
 ### <h1 align = "center">Olá 👋! Eu sou o Felipe Pinheiro 👨‍💻</h1>
 
 - 🔭 Desenvolvedor Back-end.
-- 🌱 Atualmente estou utilizando em meu ambiente de trabalho principalmente Php, Laravel e SQL.
+- 🌱 Atualmente estou utilizando em meu ambiente de trabalho principalmente PHP, Laravel e SQL.
 - 😄 Pronouns: Ele/Dele.
 
 <div align = "center">
